@@ -1,1 +1,3 @@
-# aurora-realms.github.io
+aurora-realms.github.io
+---
+GitHub Page of Aurora Realms Entertainment
